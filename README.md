@@ -1,4 +1,5 @@
 # Machine-Learning-with-Python_CognitiveAI
+<p align = "center"><img src="https://cognitiveclass.ai/wp-content/themes/bdu3.0/static/images/cc-logo.png" width = 20%"></img></p>
 Reference materials as part of the ML course at Cognitive AI.
 
 # Certificate Link
